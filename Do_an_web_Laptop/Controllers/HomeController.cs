@@ -22,6 +22,10 @@ namespace Do_an_web_Laptop.Controllers
         {
             return View();
         }
+        public IActionResult Customer()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
